@@ -1,0 +1,29 @@
+_repo: The-BalladistsFamous-Scots-Series_29713
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29713-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Geddie, John
+    birthdate: 1848
+    deathdate: 1937
+    gutenberg_agent_id: '34101'
+    url: http://www.gutenberg.org/2009/agents/34101
+    wikipedia: https://en.wikipedia.org/wiki/John_Geddie_%28journalist%29
+description: ''
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2009-08-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29713'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 6
+subjects:
+- !lcsh 'Ballads, Scots -- History and criticism'
+- !lcc 'PR'
+title: The Balladists
+url: http://www.gutenberg.org/ebooks/29713
