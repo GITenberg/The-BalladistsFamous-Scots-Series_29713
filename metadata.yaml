@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34101
     wikipedia: https://en.wikipedia.org/wiki/John_Geddie_%28journalist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29713#The-BalladistsFamous-Scots-Series
 gutenberg_bookshelf: Famous Scots Series
 gutenberg_issued: '2009-08-17'
 gutenberg_type: Text
